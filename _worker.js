@@ -19,7 +19,3 @@ return fetch(new_request);
 return env.ASSETS.fetch(request);
 }
 };
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
